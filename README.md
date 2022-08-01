@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Metehan DAL. I live in Antalya , i am front-end developer.
+# 👋 Hi there, 
+<h2>I’m Metehan DAL. I live in Antalya , i am front-end developer.</h2>
 
 ![Metehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehandal&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehandal&layout=compact)](https://github.com/metehandal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehandal&hide=php,blade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 👀 I'm interested in mobile application development and web programming.
