@@ -28,6 +28,6 @@
 
 ![Metehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehandal&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehandal&hide=php,blade,shell&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehandal&hide=php,blade,shell&show_icons=true&theme=dark)](https://github.com/metehandal)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metehandal&show_icons=true&theme=dark" alt="metehandal" /></p>
