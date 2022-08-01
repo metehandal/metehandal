@@ -2,6 +2,8 @@
 
 ![Metehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehandal&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehandal&layout=compact)](https://github.com/metehandal)
+
 
 - 👀 I'm interested in mobile application development and web programming.
 - 🌱 I'am currently learning ionic and angular.
