@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metehandal&label=Profile%20views&color=0e75b6&style=flat" alt="metehandal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metehandal" alt="metehandal" /></a> </p>
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479z2y0kngjo9y076vjui7k9j0s42df6splpn200ei&rid=giphy.gif&ct=g">
+<img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 - 🔭 I’m currently working on **Crystal**
