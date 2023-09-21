@@ -30,4 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehandal&hide=php,blade,shell&show_icons=true&theme=gruvbox)](https://github.com/metehandal)
 
+<--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metehandal&show_icons=true&theme=gruvbox" alt="metehandal" /></p>
+-->
