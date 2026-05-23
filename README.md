@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Metehan DAL</h1>
-<h3 align="center">A passionate Full-Stack Developer specializing in high-performance web applications</h3>
+<h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=metehandal&label=Profile%20views&color=0e75b6&style=flat-square" alt="metehandal" />
@@ -7,11 +7,9 @@
 
 <img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300">
 
-- 🔭 **Current Focus:** Building and scaling **PerfCommand** (Real-time screen sharing, hardware metrics, and remote desktop platform)
-- 💼 **Enterprise Integration:** Developing advanced middleware connecting Node.js and Canias ERP
-- 🛠️ **Core Stack:** React (Vite/SWC), Node.js (Express), Sequelize, and custom Highcharts solutions
-- 🎨 **UI/UX Obsession:** Crafting responsive, premium, and custom Material-UI (MUI) themes
-- 🛡️ **DevOps & Infrastructure:** Managing Ubuntu servers, Nginx configurations, and OCI Object Storage setups
+- 🔭 **I’m currently working on:** Full-stack web applications & real-time monitoring solutions
+- 🌱 **I’m currently learning & expanding on:** Advanced React ecosystem, Node.js architecture, and Cloud management
+- 💼 **Core Expertise:** Building responsive UI/UX components, ERP integrations, and custom data visualization dashboards
 - 📫 **How to reach me:** [metehan654101@gmail.com](mailto:metehan654101@gmail.com)
 
 ---
@@ -24,23 +22,33 @@
 
 ---
 
-### 💻 Tech Stack & Tools:
+### 💻 Languages and Tools:
 
-##### 🚀 Frontend & UI/UX
+##### 🚀 Modern Full-Stack & UI
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-##### ⚙️ Backend & Database
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+</p>
+
+##### 📐 Angular, Mobile & Desktop Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+##### 🗄️ Languages, Databases & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="ChartJS" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ##### 🌐 DevOps, Cloud & Tools
@@ -50,6 +58,7 @@
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 ---
